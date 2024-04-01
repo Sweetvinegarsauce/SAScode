@@ -1,2 +1,3 @@
 # myfirstrep
-我在 GitHub 上的第一个仓库
+proc print data=sashelp.class;
+run;
